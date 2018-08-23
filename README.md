@@ -1,1 +1,1 @@
-# Nguy-n-l-ng-n-ng-l-p-tr-nh
+#Nguyên lý ngôn ngữ lập trình
