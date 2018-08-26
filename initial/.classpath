@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="initial/src/lib"/>
+	<classpathentry kind="lib" path="initial/src/external/jasmin.jar"/>
+	<classpathentry kind="output" path="initial/src/lib"/>
+</classpath>
